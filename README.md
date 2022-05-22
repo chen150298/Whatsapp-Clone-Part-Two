@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the app in your brow
 
 ## See Me :
 
-You can see a short explanation of our project on youtube at this link: [https://www.youtube.com/watch?v=VfwbJZU1J5w](https://www.youtube.com/watch?v=VfwbJZU1J5w).
+You can see a short explanation of our project on youtube at this link: [https://youtu.be/VfwbJZU1J5w](https://youtu.be/VfwbJZU1J5w).
 
 ## Notes :
 
