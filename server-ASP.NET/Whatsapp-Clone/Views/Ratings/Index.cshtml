@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Domain.Rating>
+
+<h1>Ratings</h1>
+<h2>Ratings Average: @ViewBag.avg</h2>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Add New Rating</a>
+</p>
+
+<form asp-action="Index">
+    <input name="query" id="search"/>
+    <input type="submit" value="Search"/>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Content)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rate)
+            </td>
+            <td class="content">
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                <a class="btn btn-light" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a class="btn btn-light" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a class="btn btn-light" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div class="form-group">
+    <a class="btn btn-light" href="http://localhost:3000/login">Back to Login</a>
+</div>
+
+@section Scripts{
+    <script type="text/html" id="template">
+        <tr>
+            <td>
+                {username}
+            </td>
+            <td>
+                {rate}
+            </td>
+            <td class="content">
+                {content}
+            </td>
+            <td>
+                {date}
+            </td>
+            <td>
+                <a class="btn btn-light" asp-action="Edit" asp-route-id="{id}">Edit</a> |
+                <a class="btn btn-light" asp-action="Details" asp-route-id="{id}">Details</a> |
+                <a class="btn btn-light" asp-action="Delete" asp-route-id="{id}">Delete</a>
+            </td>
+        </tr>
+    </script>
+    <script src="~/js/search.js"></script>
+}
