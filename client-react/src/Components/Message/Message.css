@@ -1,0 +1,24 @@
+.chat_message{
+    position: relative;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 10px;
+    width: fit-content;
+    background-color: white;
+    margin-bottom: 8px;
+    word-break: break-word;
+}
+
+.time_stamp {
+    margin-left: 10px;
+    font-size: xx-small;
+}
+
+.sender{
+    margin-left: auto;
+    background-color: #dcf8c6;
+}
+.img-fluid{
+    max-width: 333px;
+    max-height: 333px;
+}

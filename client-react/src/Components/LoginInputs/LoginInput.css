@@ -1,0 +1,61 @@
+.input-box{
+    margin: 4px auto;
+    width: 80%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.fa{
+    margin-right: 10px;
+}
+.input-box input{
+    width: 90%;
+    border: none;
+    outline: none;
+    background:transparent;
+    color: white;
+    font-size: 20px;
+    border-bottom: 1px solid white;
+}
+.loginInput::placeholder{
+    color: white;
+}
+.eye{
+    position: absolute;
+    cursor: pointer;
+}
+span>.show{
+    display: none;
+}
+span>.hide{
+    display: block;
+}
+/*#img_label{
+    display: block;
+    cursor: pointer;
+}
+#img_label>input{
+    display: none;
+}*/
+.form-control{
+    display: inline;
+    cursor: pointer;
+}
+.input-box label{
+    width: 90%;
+    border: none;
+    outline: none;
+    background:transparent;
+    color: white;
+    font-size: 20px;
+}
+#err-msg{
+    font-size: 13px;
+    text-align: center;
+    color: red;
+    margin: 2px 20px;
+    padding: 2px;
+    display: none;
+}
+input:invalid[leaved="true"]~#err-msg{
+    display: block;
+}

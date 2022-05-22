@@ -1,0 +1,6 @@
+#audio_chat_footer_start{
+    display: block;
+}
+#audio_chat_footer_stop{
+    display: none;
+}
