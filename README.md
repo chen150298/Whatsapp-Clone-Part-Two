@@ -9,11 +9,21 @@
 
 ## How to run our project ?
 
+There are two folders in our project, one is React file and the other is ASP.NET file.
+
+### Run the React file:
+
 In the project directory, you need to run:
 
 ### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+
+### Run the ASP.NET file:
+
+There are 2 servers you need to run:
+* Whatsapp-Clone
+* Whatsapp-Clone-api
 
 ## See Me :
 
