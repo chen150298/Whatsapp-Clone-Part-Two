@@ -23,11 +23,11 @@ You can see a short explanation of our project on youtube at this link: [https:/
 
 ### Registered users :
 
-for your convenience, we added two users you can login to: 
+For your convenience, we added two users you can login to: 
 * Lion
 * Tiger
 
-their password is"1".
+Their password is"1".
 
 ### Server address :
 
