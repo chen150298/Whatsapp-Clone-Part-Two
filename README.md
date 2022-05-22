@@ -13,9 +13,7 @@ There are two folders in our project, one is React file and the other is ASP.NET
 
 ### Run the React file:
 
-In the project directory, you need to run:
-
-### `npm start`
+In the project directory, you need to run: "npm start".
 
 Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
