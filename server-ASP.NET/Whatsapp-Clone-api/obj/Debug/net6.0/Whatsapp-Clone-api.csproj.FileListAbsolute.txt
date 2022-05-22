@@ -1,0 +1,76 @@
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\appsettings.json
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Whatsapp-Clone-api.exe
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Whatsapp-Clone-api.deps.json
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Whatsapp-Clone-api.runtimeconfig.json
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Whatsapp-Clone-api.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Whatsapp-Clone-api.pdb
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Domain.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Services.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Services.pdb
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\bin\Debug\net6.0\Domain.pdb
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.csproj.AssemblyReference.cache
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.AssemblyInfoInputs.cache
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.AssemblyInfo.cs
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.csproj.CoreCompileInputs.cache
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\scopedcss\bundle\Whatsapp-Clone-api.styles.css
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.csproj.CopyComplete
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\refint\Whatsapp-Clone-api.dll
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.pdb
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.genruntimeconfig.cache
+C:\Users\חן לארי\Source\Repos\elad7290\Whatsapp-Clone-2\Whatsapp-Clone-api\obj\Debug\net6.0\ref\Whatsapp-Clone-api.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\appsettings.Development.json
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\appsettings.json
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Whatsapp-Clone-api.exe
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Whatsapp-Clone-api.deps.json
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Whatsapp-Clone-api.runtimeconfig.json
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Whatsapp-Clone-api.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Whatsapp-Clone-api.pdb
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Domain.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Services.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Services.pdb
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\bin\Debug\net6.0\Domain.pdb
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.csproj.AssemblyReference.cache
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.AssemblyInfoInputs.cache
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.AssemblyInfo.cs
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.csproj.CoreCompileInputs.cache
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.MvcApplicationPartsAssemblyInfo.cs
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.MvcApplicationPartsAssemblyInfo.cache
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\staticwebassets.build.json
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\staticwebassets.development.json
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\scopedcss\bundle\Whatsapp-Clone-api.styles.css
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.csproj.CopyComplete
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\refint\Whatsapp-Clone-api.dll
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.pdb
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\Whatsapp-Clone-api.genruntimeconfig.cache
+F:\פרוייקט ווצאפ חלק 2\server-ASP.NET\Whatsapp-Clone-api\obj\Debug\net6.0\ref\Whatsapp-Clone-api.dll
