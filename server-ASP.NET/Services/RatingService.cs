@@ -17,6 +17,9 @@ namespace Services
         }
         public void Add(Rating rating)
         {
+            int nextId = 0;
+            if (_ratings.Count > 0) { nextId = _ratings.Max(r => r.Id) + 1; }
+            rating.Id = nextId;
             _ratings.Add(rating);
         }
 
