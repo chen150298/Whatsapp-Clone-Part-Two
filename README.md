@@ -30,5 +30,5 @@ their password is"1".
 
 ### Server address :
 
-to change server's address in the react project, there is a file named "Share.js".
-you can change the addresses there conveniently.
+To change server's address in the react project, there is a file named "Share.js".
+You can change the addresses there conveniently.
